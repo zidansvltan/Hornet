@@ -83,8 +83,12 @@
     "deltaPath": "/mainnet/snapshots/delta_snapshot.bin",
     "downloadURLs": [
       {
-        "full": "https://files.stardust-mainnet.iotaledger.net/snapshots/latest-full_snapshot.bin",
-        "delta": "https://files.stardust-mainnet.iotaledger.net/snapshots/latest-delta_snapshot.bin"
+        "full": "https://chrysalis-dbfiles.iota.org/snapshots/hornet/latest-full_snapshot.bin",
+        "delta": "https://chrysalis-dbfiles.iota.org/snapshots/hornet/latest-delta_snapshot.bin"
+      },
+      {
+        "full": "https://cdn.tanglebay.com/snapshots/iota-mainnet/full_snapshot.bin",
+        "delta": "https://cdn.tanglebay.com/snapshots/iota-mainnet/delta_snapshot.bin"
       }
     ]
   }
